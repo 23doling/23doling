@@ -61,14 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=23doling&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="23doling GitHub Stats" 
-  />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img 
@@ -78,10 +71,9 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=23doling&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="23doling Top Languages" 
-  />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Database-SQL%20Management-green?style=for-the-badge" alt="Database" />
+  <img src="https://img.shields.io/badge/Server-Ubuntu%20Linux-orange?style=for-the-badge" alt="Server" />
 </p>
 
 ---
@@ -91,6 +83,9 @@
 <p align="center">
   <a href="https://github.com/23doling">
     <img src="https://img.shields.io/badge/GitHub-23doling-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/shane-hunat/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shane%20Hunat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
